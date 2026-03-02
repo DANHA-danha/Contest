@@ -1,3 +1,6 @@
+# LSTM을 활용한 품목별 수요 예측 모델링
+### Retail Data Festa 2025
+
 <p align="center">
   <img src="image/lstm_intro.png" width="100%" />
 </p>
